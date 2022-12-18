@@ -33,4 +33,4 @@ Crud Page Admin of users with MERN stack.
 
 ## Deploy
 1. Local: https://www.iepv.com/cadastro-de-membros/
-2. Admin: https://www.iepv.com/admin
+2. Admin: https://www.iepv.com/cadastro-de-membros/admin
