@@ -32,5 +32,5 @@ Crud Page Admin of users with MERN stack.
 2. FontAwesome (SVG Icons)
 
 ## Deploy
-1. Local: https://www.iepv.com/cadastro-de-membros/
-2. Admin: https://www.iepv.com/cadastro-de-membros/admin
+1. Membros: https://www.iepv.com/cadastro-de-membros/
+2. Admin (Pastor): https://www.iepv.com/cadastro-de-membros/admin
