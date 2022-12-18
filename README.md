@@ -13,7 +13,6 @@ Crud Page Admin of users with MERN stack.
 1. <a href="https://nodejs.org/en/">Node.js</a> (back-end)
 
 ### NPM - Package/Modules:
-
 1. Express JS (Framework Based on NodeJS/Middleware)
 2. Mongoose (Object Data Modeling (ODM) library)
 3. EJS (Embedded JavaScript Templating Engine)
@@ -31,3 +30,7 @@ Crud Page Admin of users with MERN stack.
 ## Front-End Library
 1. Bootstrap 5 (Designing)
 2. FontAwesome (SVG Icons)
+
+## Deploy
+1. Local: https://www.iepv.com/cadastro-de-membros/
+2. Admin: https://www.iepv.com/admin
