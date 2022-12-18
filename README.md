@@ -9,12 +9,14 @@ Crud Page Admin of users with Node.js.
 - Monolith pattern
 - MVC architecture (Model View Controller)
 
-## API/Core:
+## Technologies:
+
+### API/Core:
 1. <a href="https://nodejs.org/">Node.js</a> (back-end)
 
 ### NPM - Package/Modules:
 1. Express JS (Framework Based on NodeJS/Middleware)
-2. Mongoose (Object Data Modeling (ODM) library)
+2. Mongoose (Object Data Modeling (ODM) library) || Sequelize (Object Relational Modeling (ORM) library)
 3. EJS (Embedded JavaScript Templating Engine)
 4. Multer (Image Uploading)
 5. Express Session (Storing Session Messages)
@@ -23,13 +25,15 @@ Crud Page Admin of users with Node.js.
 
 ## Database
 1. MongoDB (NoSQL database)
+2. MySQL (SQL/Relational database)
 
 ## Web Server
-1. httpd - Apache HTTP Server 2 (HTTP Web Server)
+1. Nginx (HTTP Web Server and Reverse Proxy)
 
 ## Front-End Library
 1. Bootstrap 5 (Designing)
 2. FontAwesome (SVG Icons)
+3. Pug (HTML5 Template Engine Pre-processor)
 
 ## Deploy
 1. Membros: https://www.iepv.com/cadastro-de-membros/
