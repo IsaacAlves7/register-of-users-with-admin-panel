@@ -25,7 +25,7 @@ Crud Page Admin of users with LAMP stack.
 1. MongoDB (NoSQL database)
 
 ## Web Server
-1. Nginx (HTTP Web Server/ Reverse Proxy)
+1. httpd - Apache HTTP Server 2 (HTTP Web Server)
 
 ## Front-End Library
 1. Bootstrap 5 (Designing)
