@@ -1,4 +1,4 @@
-# 📋 Cadastro de Membros com Admin
+# 📋 Register of Church Members with Admin Panel (Dashboard)
 > Crud Page Admin of users with Node.js.
 
 ## Architectures:
