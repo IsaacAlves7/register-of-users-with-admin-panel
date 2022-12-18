@@ -1,4 +1,4 @@
-# 📋 Cadastro de Membros
+# 📋 Cadastro de Membros com Admin
 Crud Page Admin of users with MERN stack.
 
 ## Architectures
