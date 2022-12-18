@@ -1,5 +1,5 @@
-# 📋 crud-page-admin
-Crud Page Admin of users with MERN stack.
+# 📋 Cadastro de Membros
+Crud Page Admin of users with LAMP stack.
 
 ## Architectures
 - RESTful API
@@ -10,7 +10,7 @@ Crud Page Admin of users with MERN stack.
 - MVC architecture (Model View Controller)
 
 ## API/Core:
-1. <a href="https://nodejs.org/en/">Node.js</a> (back-end)
+1. <a href="https://php.net/">PHP</a> (back-end)
 
 ### NPM - Package/Modules:
 1. Express JS (Framework Based on NodeJS/Middleware)
