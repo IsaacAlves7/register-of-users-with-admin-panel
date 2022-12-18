@@ -1,5 +1,13 @@
-# crud-page-admin
-📋 Crud Page Admin of users with MERN stack.
+# 📋 crud-page-admin
+Crud Page Admin of users with MERN stack.
+
+## Architectures
+- RESTful API
+- Client-Server Model
+- CRUD (Create Read Update Delete)
+- OOP (Paradigm of Object-Oriented Programming)
+- Monolith pattern
+- MVC architecture (Model View Controller)
 
 ## API/Core:
 1. <a href="https://nodejs.org/en/">Node.js</a> (back-end)
