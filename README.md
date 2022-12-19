@@ -5,7 +5,7 @@
 - RESTful API
 - Client-Server Model
 - CRUD (Create Read Update Delete)
-- OOP (Paradigm of Object-Oriented Programming)
+- OOP (Object-Oriented Programming Paradigm)
 - Monolith pattern
 - MVC architecture (Model View Controller)
 - Template Engines
@@ -25,12 +25,12 @@
 - [x] DotEnv (Environment Variables)
 - [x] Nodemon (Monitoring Server/ Real-time refresh)
 
-### Database
+### Database:
 - [x] MongoDB (NoSQL database)
 - [ ] MySQL (SQL/Relational database)
 
 ### Web Server:
-- [x] Nginx (HTTP Web Server and Reverse Proxy)
+- [x] <a href="https://www.nginx.com/">Nginx</a> (HTTP Web Server and Reverse Proxy)
 
 ## Front-End Library:
 - [x] Bootstrap 5 (Designing)
