@@ -23,10 +23,10 @@
 - [x] Multer (Image Uploading)
 - [x] Express Session (Storing Session Messages)
 - [x] DotEnv (Environment Variables)
-- [x] Nodemon (Monitoring Server/ Real-time refresh)
+- [x] <a href="https://www.npmjs.com/package/nodemon">Nodemon</a> (Monitoring Server/ Real-time refresh)
 
 ### Database:
-- [x] MongoDB (NoSQL database)
+- [x] <a href="https://www.mongodb.com/">MongoDB</a> (NoSQL database)
 - [ ] MySQL (SQL/Relational database)
 
 ### Web Server:
