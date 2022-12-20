@@ -16,8 +16,8 @@
 1. <a href="https://nodejs.org/">Node.js</a> (back-end)
 
 ### NPM - Package/Modules:
-- [x] Express JS (Framework Based on NodeJS/Middleware)
-- [x] Mongoose (Object Data Modeling (ODM) library)
+- [x] <a href="https://www.npmjs.com/package/express">Express JS</a> (Framework Based on NodeJS/Middleware)
+- [x] <a href="https://www.npmjs.com/package/mongoose">Mongoose</a> (Object Data Modeling (ODM) library)
 - [ ] Sequelize (Object Relational Modeling (ORM) library)
 - [x] EJS (Embedded JavaScript Templating Engine)
 - [x] Multer (Image Uploading)
