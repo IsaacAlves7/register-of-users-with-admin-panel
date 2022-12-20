@@ -20,10 +20,10 @@
 - [x] <a href="https://www.npmjs.com/package/mongoose">Mongoose</a> (Object Data Modeling (ODM) library)
 - [ ] Sequelize (Object Relational Modeling (ORM) library)
 - [x] <a href="https://www.npmjs.com/package/ejs">EJS</a> (Embedded JavaScript Templating Engine)
-- [x] <a href="https://www.npmjs.com/package/multer">Multer</a> (Image Uploading)
+- [x] <a href="https://www.npmjs.com/package/multer">Multer</a> (Image Uploading/Middleware)
 - [x] <a href="https://www.npmjs.com/package/express-session">Express Session</a> (Storing Session Messages)
 - [x] <a href="https://www.npmjs.com/package/dotenv">DotEnv</a> (Environment Variables)
-- [x] <a href="https://www.npmjs.com/package/nodemon">Nodemon</a> (Monitoring Server/ Real-time refresh)
+- [x] <a href="https://www.npmjs.com/package/nodemon">Nodemon</a> (Monitoring Server/ Real-time refreshing)
 
 ### Database:
 - [x] <a href="https://www.mongodb.com/">MongoDB</a> (NoSQL database)
