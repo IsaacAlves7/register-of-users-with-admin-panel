@@ -10,7 +10,7 @@
 - MVC architecture (Model View Controller)
 - Template Engines
 
-## Back-End:
+## Back-End (Server side):
 
 ### API/Core:
 1. <a href="https://nodejs.org/">Node.js</a> (back-end)
@@ -32,7 +32,7 @@
 ### Web Server:
 - [x] <a href="https://www.nginx.com/">Nginx</a> (HTTP Web Server and Reverse Proxy)
 
-## Front-End Library:
+### Front-End Libraries (Client side):
 - [x] <a href="https://getbootstrap.com/">Bootstrap 5</a> (Designing)
 - [x] <a href="https://fontawesome.com/">FontAwesome</a> (SVG Icons)
 - [x] <a href="https://pugjs.org/api/getting-started.html">Pug</a> (HTML5 Template Engine Pre-processor)
