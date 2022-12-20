@@ -1,4 +1,4 @@
-# 📋 Register of Church Members with Admin Panel (Dashboard)
+# 📋 Register of Church Members with Admin Panel
 > Crud Page Admin of users with Node.js.
 
 ## Technologies/Architectures:
