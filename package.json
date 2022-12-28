@@ -1,0 +1,29 @@
+{
+  "name": "iepv-cadastro-de-membros-com-admin",
+  "version": "1.0.0",
+  "description": "Crud Page Admin of users with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacAlves7/iepv-cadastro-de-membros-com-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacAlves7/iepv-cadastro-de-membros-com-admin/issues"
+  },
+  "homepage": "https://github.com/IsaacAlves7/iepv-cadastro-de-membros-com-admin#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jade": "^1.11.0",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  }
+}
