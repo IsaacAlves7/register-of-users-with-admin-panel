@@ -11,7 +11,7 @@ const insertEmployee = async(req,res) => {
         });
 
         const result = await employee.save();
-        res.send("O Cadastro foi feito com sucesso!" + result);
+        res.send(`O Cadastro foi feito com sucesso! ${result}`);
 
     } catch (error) {
         res.send(error.message);  
