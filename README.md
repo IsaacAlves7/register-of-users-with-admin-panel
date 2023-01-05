@@ -24,12 +24,14 @@
 - [x] <a href="https://www.npmjs.com/package/express">Express JS</a> (Framework Based on NodeJS/Middleware)
 - [x] <a href="https://www.npmjs.com/package/mongoose">Mongoose</a> (Object Data Modeling (ODM) library)
 - [ ] Sequelize (Object Relational Modeling (ORM) library)
+- [x] <a href="https://www.npmjs.com/package/mongodb">Mongodb</a> (The official MongoDB driver for Node.js) 
 - [x] <a href="https://www.npmjs.com/package/ejs">EJS</a> (Embedded JavaScript Templating Engine)
 - [x] <a href="https://www.npmjs.com/package/multer">Multer</a> (Image Uploading/Middleware)
 - [x] <a href="https://www.npmjs.com/package/express-session">Express Session</a> (Storing Session Messages)
 - [x] <a href="https://www.npmjs.com/package/dotenv">DotEnv</a> (Environment Variables)
 - [x] <a href="https://www.npmjs.com/package/nodemon">Nodemon</a> (Monitoring Server/ Real-time refreshing)
 - [x] <a href="https://www.npmjs.com/package/body-parser">Body Parser</a> (Node.js body parsing middleware)
+- [x] <a href="https://www.npmjs.com/package/bcrypt">Bcrypt</a> (A library to help you hash passwords)
 
 ### Database:
 - [x] <a href="https://www.mongodb.com/">MongoDB</a> (NoSQL database)

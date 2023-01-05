@@ -8,3 +8,8 @@ package.json
 README.md
 .docker
 .public
+.routes
+.database
+.env
+.ENV
+.db

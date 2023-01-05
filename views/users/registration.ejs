@@ -1,0 +1,41 @@
+<% include('../layouts/header.ejs') %>
+
+<h1>Cadastro de Membros</h1>
+
+<form action="" method="post" enctype="multipart/form-data">
+    <strong>Nome</strong>:&nbsp;<input type="text" name="name" placeholder="Digite seu Nome" required>
+    <br><br>
+    <strong>Email</strong>:&nbsp;<input type="email" name="email" placeholder="Digite seu email" required>
+    <br><br>
+    <strong>Celular</strong>:&nbsp;<input type="mobile" name="mobile" placeholder="Digite seu número do celular" required>
+    <br><br>
+    <strong>Endereco</strong>:&nbsp;<input type="address" name="address" placeholder="Digite seu endereco residencial" required>
+    <br><br>
+    <!-- <strong>Estado Civil</strong>:&nbsp;
+    <br>
+    <input type="radio" name="estado_civil" id="solteiro" name="solteiro" value="solteiro">
+    <label for="casado">Casado</label><br>
+    <input type="radio" name="estado_civil" id="solteiro" name="solteiro" value="solteiro">
+    <label for="solteiro">Solteiro</label><br>
+    <input type="radio" name="estado_civil" id="viuvo" name="viuvo" value="viuvo">
+    <label for="viuvo">Viúvo</label>
+    <br><br> -->
+    <strong>Foto</strong>:&nbsp;<input type="file" name="image" required>
+    <br><br>
+    <strong>Senha</strong>:&nbsp;<input type="password" name="password" placeholder="Digite sua senha" required>
+    <br><br>
+    <input type="submit" value="Registrar">
+</form>
+
+
+<% 
+
+if(typeof message !== 'undefined'){
+    %>
+     <p style="color: green;"><%= message %></p> 
+    <%
+}
+
+%> 
+
+<% include('../layouts/footer.ejs') %>
