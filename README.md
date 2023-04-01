@@ -1,4 +1,4 @@
-# 📋 Register of Church Members with Admin Panel 
+# 📋 Login/Register of users with Admin Panel 
 > Crud Page Admin of users with Node.js.
 
 ## Technologies/Architectures:
