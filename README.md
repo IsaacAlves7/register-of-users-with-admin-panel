@@ -12,9 +12,9 @@
 - DevOps
 
 ## Back-End (Server side):
-1. **Cadastro de Membros**: https://www.iepv.com/cadastro-de-membros/
-2. **Login de Membros**: https://www.iepv.com/login/
-3. **Administrador de Membros (Pastor)**: https://www.iepv.com/cadastro-de-membros/admin
+1. **Register**: https://www.site.com/members/register/
+2. **Login**: https://www.site.com/members/login/
+3. **Admin**: https://www.site.com/admin/
 
 > **Login de Membros** = Olá querido ovelho, a paz do Senhor! Você já está no aprisco, em breve haverá mais pasto verdejante por aqui, então fiquem atentos! Que Deus te abencoe :)
 ### API/Core:
