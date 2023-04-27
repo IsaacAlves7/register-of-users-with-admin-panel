@@ -1,5 +1,5 @@
-# 📋 Login and Register of users with Admin Panel 
-> Crud Page Admin of users with Node.js.
+# Login and Register of users with Admin Panel (Dashboard)
+> 📋 It's a repository of Login and Register of users with Admin Panel (Dashboard), using Crud Page Admin of users with Node.js.
 
 ## Technologies/Architectures:
 - RESTful API
